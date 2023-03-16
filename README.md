@@ -6,4 +6,4 @@ cd: cambiar de directorio
 
 ls: listado de carpeta en el disco
 
-algo
+algo 
