@@ -6,4 +6,5 @@ cd: cambiar de directorio
 
 ls: listado de carpeta en el disco
 
-algo 
+algo. estoy cambiando desde git hub Andres Perez
+
